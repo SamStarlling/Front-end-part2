@@ -3,6 +3,11 @@
 header {
   background: darkgoldenrod;
 }
+nav {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
 nav li {
   display: inline; /*Coloca todo o conteúdo na mesma linha*/
   margin: 0 0 0 15px; /*Margin segue a seguinte configuração : top right bottom left*/
