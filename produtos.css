@@ -1,0 +1,16 @@
+* {
+}
+header {
+  background: darkgoldenrod;
+}
+nav li {
+  display: inline; /*Coloca todo o conteúdo na mesma linha*/
+  margin: 0 0 0 15px; /*Margin segue a seguinte configuração : top right bottom left*/
+}
+nav a {
+  text-transform: uppercase; /*Transforma o texto em maiúsculo*/
+  color: black;
+  font-weight: bold; /*Coloca o texto em negrito*/
+  font-size: 22px;
+  text-decoration: none;
+}
