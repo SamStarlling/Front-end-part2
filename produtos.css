@@ -27,3 +27,21 @@ nav a {
 .produtos {
   width: 100%;
 }
+
+.produtos li {
+  display: inline-block;
+}
+
+.produtos h2 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.descricaoProduto {
+  font-size: 18px;
+}
+
+.precoProduto {
+  font-size: 22px;
+  font-weight: bold;
+}
