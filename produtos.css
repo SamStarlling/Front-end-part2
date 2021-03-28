@@ -25,11 +25,24 @@ nav a {
 }
 
 .produtos {
-  width: 100%;
+  width: 940px;
+
+  margin: 0 auto;
+  padding: 50px 0;
 }
 
 .produtos li {
   display: inline-block;
+
+  text-align: center;
+  vertical-align: top;
+
+  width: 30%;
+  padding: 30px 20px;
+  border: 2px solid black;
+
+  box-sizing: border-box;
+  border-radius: 10px;
 }
 
 .produtos h2 {
@@ -44,4 +57,6 @@ nav a {
 .precoProduto {
   font-size: 22px;
   font-weight: bold;
+
+  margin-top: 10px;
 }
